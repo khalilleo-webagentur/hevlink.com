@@ -114,7 +114,7 @@ HevLink Technologies
 Paul-Gerhardt-Str. 7, 74321 Bietigheim-Bissingen
 Rechenzentrum: Deutschland
 
-Web: https://hevlink.com/UAGksdwY
+Web: https://hevlink.com
 
 Tel.: `(49) 177 145-0786`
 

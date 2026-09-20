@@ -116,9 +116,9 @@ Rechenzentrum: Deutschland
 
 Web: https://hevlink.com
 
-Tel.: `(49) 177 145-0786`
+Tel.: `(+49) 177 145-0786`
 
-E-Mail: `kontakt@hevLink.com`
+E-Mail: `info@hevlink.com`
 
 
 

@@ -110,9 +110,15 @@ voller Kontrolle über Ziel-URLs, Sicherheitsregeln und Auswertungen.
 ## 📄 Lizenz & Kontakt
 
 HevLink Technologies  
+
 Paul-Gerhardt-Str. 7, 74321 Bietigheim-Bissingen
 Rechenzentrum: Deutschland
+
 Web: https://hevlink.com/UAGksdwY
+
 Tel.: `(49) 177 145-0786`
+
 E-Mail: `kontakt@hevLink.com`
+
+
 
